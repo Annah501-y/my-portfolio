@@ -1,7 +1,7 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
 
-// https://vite.dev/config/
+// Vite uses this config file to understand that this is a React project.
 export default defineConfig({
   plugins: [react()],
-})
+});
