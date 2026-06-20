@@ -75,7 +75,7 @@ function Navbar() {
             ))}
 
             <a
-              href="CV.pdf"
+              href="/Resume.pdf"
               download
               className="bg-blue-600 text-center py-3 rounded-lg"
             >

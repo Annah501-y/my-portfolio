@@ -67,7 +67,7 @@ function Hero() {
             </a>
 
             <a
-              href="CV.pdf"
+              href="/CV.pdf"
               download
               className="flex items-center gap-2 rounded-lg border border-slate-700 px-6 py-3 transition hover:border-blue-500 hover:text-blue-400"
             >
