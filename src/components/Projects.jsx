@@ -5,7 +5,7 @@ function Projects() {
     {
       title: "Food Delivery Platform",
       description:
-        "A modern food ordering platform that allows users to browse restaurants, place orders, and track deliveries through a responsive web interface.",
+        "A modern food ordering platform that allows users to browse restaurants, place orders and track deliveries through a responsive web interface.",
       technologies: ["React", "Tailwind CSS", "REST API", "Vite"],
       image:
         "https://images.unsplash.com/photo-1513104890138-7c749659a591?auto=format&fit=crop&w=900&q=80",
@@ -28,7 +28,7 @@ function Projects() {
 
           <p className="mx-auto mt-6 max-w-2xl text-gray-400">
             A selection of projects demonstrating my skills in web development,
-            backend systems, and modern software engineering.
+            backend systems and modern software engineering.
           </p>
         </div>
 

@@ -17,7 +17,7 @@ import {  Mail, ArrowUp, Code2, Network, } from "lucide-react";
   
               <p className="text-gray-400 mt-4 leading-relaxed">
                 Building modern web applications, intelligent
-                digital solutions, and user-focused experiences.
+                digital solutions and user-focused experiences.
               </p>
             </div>
   

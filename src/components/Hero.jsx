@@ -35,13 +35,13 @@ function Hero() {
 
           <p className="mt-6 max-w-2xl text-lg leading-relaxed text-gray-300">
             I help businesses and startups transform ideas into fast, scalable,
-            and user-friendly web applications using React, Tailwind CSS, Java,
+            and user-friendly web applications using React, Tailwind CSS, Java
             and modern development tools.
           </p>
 
           <p className="mt-4 text-gray-500">
             Currently building digital solutions in food delivery, business
-            management, and AI-powered applications.
+            managements and AI-powered applications.
           </p>
 
           {/* Tech Stack */}
@@ -67,7 +67,7 @@ function Hero() {
             </a>
 
             <a
-              href="/CV.pdf"
+              href="CV.pdf"
               download
               className="flex items-center gap-2 rounded-lg border border-slate-700 px-6 py-3 transition hover:border-blue-500 hover:text-blue-400"
             >

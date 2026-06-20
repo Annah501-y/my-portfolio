@@ -76,7 +76,7 @@ function Skills() {
 
           <p className="text-gray-400 mt-6 max-w-2xl mx-auto">
             I use modern technologies to build scalable,
-            user-friendly, and high-performance digital solutions.
+            user-friendly and high-performance digital solutions.
           </p>
         </div>
 

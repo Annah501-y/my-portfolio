@@ -6,7 +6,7 @@ import {MonitorSmartphone,LayoutDashboard,Database,Brain, ArrowRight,} from "luc
         icon: <MonitorSmartphone size={32} />,
         title: "Frontend Development",
         description:
-          "Building fast, responsive, and modern web applications using React, Tailwind CSS, and JavaScript.",
+          "Building fast, responsive and modern web applications using React, Tailwind CSS, and JavaScript.",
       },
       {
         icon: <LayoutDashboard size={32} />,
@@ -18,7 +18,7 @@ import {MonitorSmartphone,LayoutDashboard,Database,Brain, ArrowRight,} from "luc
         icon: <Database size={32} />,
         title: "Database Design",
         description:
-          "Designing efficient database structures, relationships, and management systems using MySQL and SQL technologies.",
+          "Designing efficient database structures, relationships and management systems using MySQL and SQL technologies.",
       },
       {
         icon: <Brain size={32} />,
@@ -49,8 +49,8 @@ import {MonitorSmartphone,LayoutDashboard,Database,Brain, ArrowRight,} from "luc
             </h2>
   
             <p className="text-gray-400 mt-6 max-w-2xl mx-auto">
-              I help businesses, startups, and individuals transform ideas
-              into modern digital products that are scalable, user-friendly,
+              I help businesses, startups and individuals transform ideas
+              into modern digital products that are scalable, user-friendly
               and performance-driven.
             </p>
           </div>

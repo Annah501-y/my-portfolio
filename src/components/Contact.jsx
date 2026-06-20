@@ -101,7 +101,7 @@ ${formData.message}
 
             <div className="rounded-2xl bg-blue-600 p-8">
               <h3 className="mb-3 text-2xl font-semibold">
-                Available for Freelance Work
+                Available for Freelance Works and internships
               </h3>
 
               <p className="text-blue-100">

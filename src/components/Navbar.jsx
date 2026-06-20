@@ -42,7 +42,7 @@ function Navbar() {
 
         {/* Resume Button */}
         <a
-          href="/Resume.pdf"
+          href="Resume.pdf"
           download
           className="hidden md:block bg-blue-600 hover:bg-blue-700 px-5 py-2 rounded-lg transition"
         >
@@ -75,7 +75,7 @@ function Navbar() {
             ))}
 
             <a
-              href="/Annie-CV.pdf"
+              href="CV.pdf"
               download
               className="bg-blue-600 text-center py-3 rounded-lg"
             >

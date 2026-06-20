@@ -6,7 +6,7 @@ function About() {
       icon: <Code2 size={28} />,
       title: "Web Development & Design",
       description:
-        "Building responsive and modern web applications using React, Tailwind CSS, and JavaScript.",
+        "Building responsive and modern web applications using React, Tailwind CSS and JavaScript.",
     },
     {
       icon: <Brain size={28} />,
@@ -82,7 +82,7 @@ function About() {
 
             <p className="text-gray-400 leading-relaxed mb-8">
               My focus is on developing scalable web applications,
-              intelligent systems, and user-friendly experiences.
+              intelligent systems and user-friendly experiences.
               I enjoy turning ideas into reliable software solutions
               using modern technologies.
             </p>
