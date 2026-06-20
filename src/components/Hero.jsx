@@ -68,7 +68,9 @@ function Hero() {
 
             <a
               href="/CV.pdf"
-              download
+              download="CV.pdf"
+              target="blank"
+              rel="noopener noreferrer"
               className="flex items-center gap-2 rounded-lg border border-slate-700 px-6 py-3 transition hover:border-blue-500 hover:text-blue-400"
             >
               Download CV
@@ -120,7 +122,7 @@ function Hero() {
             {/* Profile Container */}
             <div className="relative h-80 w-80 rounded-full bg-gradient-to-r from-blue-500 via-cyan-500 to-blue-600 p-1 md:h-96 md:w-96">
              < div className="h-full w-full overflow-hidden rounded-full bg-slate-900">
-                {/* If using an image, replace this div with the img below */}
+                {/*  the profile */}
                
                 <img
                   src={profile}
