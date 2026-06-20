@@ -1,4 +1,4 @@
-import { ArrowRight, Download, Code2, Mail, Network } from "lucide-react";
+import { ArrowRight, Code2, Mail, Network, Eye } from "lucide-react";
 
 // If you want to use your own image later:
 // 1. Put the image in src/assets/profile.jpg
@@ -68,13 +68,12 @@ function Hero() {
 
             <a
               href="/CV.pdf"
-              download="CV.pdf"
               target="blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 rounded-lg border border-slate-700 px-6 py-3 transition hover:border-blue-500 hover:text-blue-400"
             >
-              Download CV
-              <Download size={18} />
+              View CV
+              <Eye size={18} />
             </a>
           </div>
 
